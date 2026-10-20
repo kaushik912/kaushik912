@@ -3,7 +3,7 @@
 **Principal Engineer** · Payments, Fraud & Distributed Systems
 Now building **agentic AI systems** on solid backend foundations. Runnable demos, not slide decks.
 
-[Portfolio](https://kaushik912.github.io) · [Projects](https://kaushik912.github.io/projects/) · [LinkedIn](https://linkedin.com/in/kaushik-kailasnath/)
+[Portfolio](https://kaushik912.github.io) · [LinkedIn](https://linkedin.com/in/kaushik-kailasnath/)
 
 ---
 
