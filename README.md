@@ -14,6 +14,7 @@ Now building **agentic AI systems** on solid backend foundations. Runnable demos
 - 🔬 **[research-agent](https://github.com/kaushik912/ai-mcp-lab/tree/master/research-agent)**: Spring AI agent with MCP tool calling, RAG, session memory
 - 🛡️ **[resilience-llm-failover](https://github.com/kaushik912/ai-mcp-lab/tree/master/resilience-llm-failover)**: Gemini → OpenRouter failover via Resilience4j circuit breaker
 - 🎫 **[ticket-spec-demo](https://github.com/kaushik912/ticket-spec-demo)**: ticket → spec → plan → tasks, spec-driven workflow
+- ✅ **[todo-app (live demo)](https://kaushik912.github.io/mattpococktesting/)**: todo app built end-to-end with Matt Pocock's Claude skills, hosted on GitHub Pages (demonstration)
 - 📤 **[outbox-demo](https://github.com/kaushik912/infra-demos/tree/master/outbox-demo)**: transactional outbox + Kafka relay
 
 ### 🧱 Toolbox
