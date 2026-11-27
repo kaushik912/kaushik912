@@ -24,7 +24,9 @@ Now building **agentic AI systems** on solid backend foundations. Runnable demos
 
 | Project | Purpose |
 |---|---|
-| [research-agent](https://github.com/kaushik912/ai-mcp-lab/tree/master/research-agent) | Gemini RAG + MCP agent using a news tool |
+| [ecommerce-ai-assistant](https://github.com/kaushik912/ai-mcp-lab/tree/master/ecommerce-ai-assistant) | AI storefront concierge: RAG, deterministic `@Tool` calls, MCP carrier service, live agent X-ray |
+| [spring-ai-basics](https://github.com/kaushik912/ai-mcp-lab/tree/master/spring-ai-basics) | One package per Spring AI concept: chat, memory, structured output, RAG, tools, workflow + LLM-as-judge evals |
+| [research-agent](https://github.com/kaushik912/ai-mcp-lab/tree/master/research-agent) | RAG + MCP agent using a news tool (OpenRouter) |
 | [research-agent-news-tool](https://github.com/kaushik912/ai-mcp-lab/tree/master/research-agent-news-tool) | MCP server (SSE) exposing `searchNews` |
 | [a2a-hello-world](https://github.com/kaushik912/ai-mcp-lab/tree/master/a2a-hello-world) | A2A: LLM orchestrator delegating to joke/quote agents |
 | [resilience-llm-failover](https://github.com/kaushik912/ai-mcp-lab/tree/master/resilience-llm-failover) | Gemini → OpenRouter failover via Resilience4j circuit breaker |
@@ -32,7 +34,7 @@ Now building **agentic AI systems** on solid backend foundations. Runnable demos
 | [weathermcp-litellm](https://github.com/kaushik912/ai-mcp-lab/tree/master/weathermcp-litellm) | Provider-agnostic agent (LiteLLM), pluggable MCP tools |
 | [openapi-mcp](https://github.com/kaushik912/ai-mcp-lab/tree/master/openapi-mcp) | MCP server to explore/call endpoints from an OpenAPI spec |
 | [spring-ai-mcp-demo](https://github.com/kaushik912/ai-mcp-lab/tree/master/spring-ai-mcp-demo) | Person/account MCP servers + sample client |
-| [mcp-quote-server](https://github.com/kaushik912/ai-mcp-lab/tree/master/mcp-quote-server) / [mcp-quote-client](https://github.com/kaushik912/ai-mcp-lab/tree/master/mcp-quote-client) | Spring AI MCP server + client (Ollama/Claude/Gemini) |
+| [mcp-quote-server](https://github.com/kaushik912/ai-mcp-lab/tree/master/mcp-quote-server) / [mcp-quote-client](https://github.com/kaushik912/ai-mcp-lab/tree/master/mcp-quote-client) | Spring AI MCP server + client (Ollama/Claude/OpenRouter) |
 | [langchain-learning-lab](https://github.com/kaushik912/ai-mcp-lab/tree/master/langchain-learning-lab) | LangChain v1 / LangGraph examples, Streamlit |
 | [langgraph_useful](https://github.com/kaushik912/ai-mcp-lab/tree/master/langgraph_useful) | LangGraph lesson scripts |
 
